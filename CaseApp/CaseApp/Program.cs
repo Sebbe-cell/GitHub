@@ -8,6 +8,7 @@ namespace CaseApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Lyckades!!!!!!!!!!!!! / Sebbe");
+            Console.WriteLine("Hallååå");
         }
     }
 }
